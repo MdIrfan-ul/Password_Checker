@@ -13,8 +13,8 @@ The PasswordChecker project is a Python script that allows users to check the se
 * `requests` module: Install using `pip install requests`
 ## How to Use
 * Clone the repository:```https://github.com/MdIrfan-ul/PasswordChecker.git```
-* Navigate to the project directory:```cd PasswordChecker```
-* Run the script: ```python check_mypass.py```
+* Navigate to the project directory:```cd Password_Checker```
+* Run the script: ```python password_checker.py```
 ## Acknowledgments
 * This project makes use of the Pwned Passwords API. For more information, visit [haveibeenpwned](https://haveibeenpwned.com/Passwords.)
 ## Disclaimer
