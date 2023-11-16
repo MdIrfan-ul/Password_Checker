@@ -1,4 +1,4 @@
-# PasswordChecker# PasswordChecker
+# PasswordChecker
 ## Overview
 The PasswordChecker project is a Python script that allows users to check the security of their passwords by leveraging the Pwned Passwords API. This tool utilizes the `request` module for making HTTP requests, `hashlib` for hashing passwords, and the Pwned Passwords database to determine if a password has been previously leaked or compromised.
 ## Features
